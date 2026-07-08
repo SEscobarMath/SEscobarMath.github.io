@@ -1,0 +1,13 @@
+---
+title: "Sergio Escobar"
+---
+
+Welcome. I am a mathematics researcher interested in quantum information, mathematical physics, Markov chains, representation theory, and combinatorics.
+
+## Research
+
+My work focuses on mixing times, symmetry, quantum dynamics, and related problems in probability and representation theory.
+
+## Papers and notes
+
+This site hosts my papers, research notes, and mathematical blog posts.

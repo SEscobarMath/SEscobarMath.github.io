@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sergio Escobar"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: papers/index.qmd
+        text: Papers
+      - href: notes.qmd
+        text: Notes
+      - href: blog/index.qmd
+        text: Blog
+      - href: cv.qmd
+        text: CV
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    math: mathjax
