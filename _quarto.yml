@@ -25,3 +25,4 @@ format:
     theme: cosmo
     toc: true
     math: mathjax
+    css: styles.css

@@ -1,13 +1,47 @@
 ---
-title: "Sergio Escobar"
+title: "Home"
+title-block: false
+page-layout: full
+toc: false
 ---
 
-Welcome. I am a mathematics researcher interested in quantum information, mathematical physics, Markov chains, representation theory, and combinatorics.
+::: {.hero}
 
-## Research
+::: {.hero-text}
 
-My work focuses on mixing times, symmetry, quantum dynamics, and related problems in probability and representation theory.
+# Sergio Escobar
 
-## Papers and notes
+**Mathematics PhD Student**  
+University of California, Berkeley
 
-This site hosts my papers, research notes, and mathematical blog posts.
+Quantum Information · Mathematical Physics · Probability · Combinatorics
+
+:::
+
+::: {.hero-photo}
+
+![](images/profile.jpg){.profile-photo}
+
+:::
+
+:::
+
+::: {.content-block}
+
+## About
+
+I am a mathematics PhD student at UC Berkeley. My interests include quantum information theory, mathematical physics, Markov chains, representation theory, and combinatorics.
+
+## Research interests
+
+- Mixing times and Markov chains
+- Quantum dynamics and Davies generators
+- Symmetry and Schur--Weyl duality
+- Representation theory in quantum many-body systems
+- Combinatorics and probabilistic methods
+
+## Selected papers and notes
+
+See the [Papers](papers/) and [Notes](notes.qmd) pages.
+
+:::

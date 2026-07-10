@@ -30,9 +30,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Sergio Escobar",
+    "title": "Home",
     "section": "",
-    "text": "Welcome. I am a mathematics researcher interested in quantum information, mathematical physics, Markov chains, representation theory, and combinatorics."
+    "text": "Mathematics PhD Student\nUniversity of California, Berkeley\nQuantum Information · Mathematical Physics · Probability · Combinatorics"
   },
   {
     "objectID": "index.html#research",
@@ -54,5 +54,26 @@
     "title": "Papers",
     "section": "",
     "text": "Coming soon."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Home",
+    "section": "About",
+    "text": "About\nI am a mathematics PhD student at UC Berkeley. My interests include quantum information theory, mathematical physics, Markov chains, representation theory, and combinatorics."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Home",
+    "section": "Research interests",
+    "text": "Research interests\n\nMixing times and Markov chains\nQuantum dynamics and Davies generators\nSymmetry and Schur–Weyl duality\nRepresentation theory in quantum many-body systems\nCombinatorics and probabilistic methods"
+  },
+  {
+    "objectID": "index.html#selected-papers-and-notes",
+    "href": "index.html#selected-papers-and-notes",
+    "title": "Home",
+    "section": "Selected papers and notes",
+    "text": "Selected papers and notes\nSee the Papers and Notes pages."
   }
 ]
