@@ -35,27 +35,6 @@
     "text": "Mathematics PhD Student\nUniversity of California, Berkeley\nQuantum Information · Mathematical Physics · Probability · Combinatorics"
   },
   {
-    "objectID": "index.html#research",
-    "href": "index.html#research",
-    "title": "Sergio Escobar",
-    "section": "Research",
-    "text": "Research\nMy work focuses on mixing times, symmetry, quantum dynamics, and related problems in probability and representation theory."
-  },
-  {
-    "objectID": "index.html#papers-and-notes",
-    "href": "index.html#papers-and-notes",
-    "title": "Sergio Escobar",
-    "section": "Papers and notes",
-    "text": "Papers and notes\nThis site hosts my papers, research notes, and mathematical blog posts."
-  },
-  {
-    "objectID": "papers/index.html",
-    "href": "papers/index.html",
-    "title": "Papers",
-    "section": "",
-    "text": "Coming soon."
-  },
-  {
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "Home",
@@ -75,5 +54,12 @@
     "title": "Home",
     "section": "Selected papers and notes",
     "text": "Selected papers and notes\nSee the Papers and Notes pages."
+  },
+  {
+    "objectID": "papers/index.html",
+    "href": "papers/index.html",
+    "title": "Papers",
+    "section": "",
+    "text": "Coming soon."
   }
 ]
